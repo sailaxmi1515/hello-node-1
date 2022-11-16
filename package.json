@@ -1,12 +1,12 @@
 {
-  "name": "hello-pranay",
+  "name": "hello-node",
   "version": "1.0.0",
-  "description": "Pranay project",
+  "description": "Vikas project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pranay reddy <20N31A04G4@mrcet.ac.in>",
+  "author": "Vikas <vikasiyar123456@gmail.com>",
   "license": "ISC",
   "keywords": [
     "my",
